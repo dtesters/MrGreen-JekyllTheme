@@ -1,6 +1,6 @@
 name: 'Creates release notes'
 description: 'Create changelog from issues linked to PRs'
-author: 'Mr. Green’s Workshop'
+author: ''
 inputs:
   github-token:
     description: 'The GitHub token'
